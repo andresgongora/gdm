@@ -1,5 +1,5 @@
 <!--------------------------------------+-------------------------------------->
-# Gas Distribution Mapping (GDM)
+#                         Gas Distribution Mapping (GDM)
 <!--------------------------------------+-------------------------------------->
 This is a collection of Python scripts intended for GDM,
 the estimation of how a gas is spread in a 2D/3D environment
