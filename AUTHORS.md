@@ -19,7 +19,7 @@ The following list is roughly sorted in reverse cronological order.
 
 *   **Andres Gongora**  
     <mail@andresgongora.com>  
-    www.andresgongora.com
+    www.andresgongora.com  
     Main developer
 
 
