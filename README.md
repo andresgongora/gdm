@@ -27,7 +27,7 @@ this software in [AUTHORS.md](AUTHORS.md). Thanks to all of you!
 
 
 <!--------------------------------------+-------------------------------------->
-##                                    License
+#                                    License
 <!--------------------------------------+-------------------------------------->
 
 Copyright (c) 2019, Andres Gongora - www.andresgongora.com
